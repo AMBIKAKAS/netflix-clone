@@ -4,12 +4,16 @@ A **Netflix-Clone inspired web app** built with **React.js**, **JavaScript**, an
 
 ---
 #SCREENSHOTS::
+## 📸 Screenshots
+
 <p align="center">
-  <img src="./SCREENSHOTS/Landing.png" width="280" alt="🚀 Landing Page" />
-  <img src="./SCREENSHOTS/library.png" width="280" alt="🎞️ Movie Library" />
-  <img src="./SCREENSHOTS/library2.png" width="280" alt="🔍 Filtered Movies" />
-  <img src="./SCREENSHOTS/Signup.png" width="280" alt="🔐 Signup Page" />
+  <img src="./SCREENSHOTS/Landing.png" width="350" />
+  <img src="./SCREENSHOTS/library.png" width="350" />
+  <br><br>
+  <img src="./SCREENSHOTS/library2.png" width="350" />
+  <img src="./SCREENSHOTS/Signup.png" width="350" />
 </p>
+---
 ## 🛠️ Tech Stack
 
 | Technology        | Purpose                                       |
