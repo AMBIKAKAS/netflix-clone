@@ -6,7 +6,7 @@ A **Netflix-inspired web app** built with **React.js**, **JavaScript**, and **Fi
 
 ## 📸 Screenshots
 <p align="center">
-  <img src="./screenshots/Landing.png" width="700" />
+  <img src="./SCREENSHOTS/Landing.png" width="700" />
   <img src="./screenshots/library.png" width="700" />
   <img src="./screenshots/library2.png" width="700" />
   <img src="./screenshots/Signup.png" width="700" />
