@@ -3,15 +3,14 @@
 A **Netflix-inspired web app** built with **React.js**, **JavaScript**, and **Firebase**, replicating the core UI/UX of Netflix — including user authentication, movie cards, trailer playback, and protected routes. This project was developed to enhance modern web development skills through real-world implementation.
 
 ---
+#SCREENSHOTS::
 
-## 📸 Screenshots
 <p align="center">
-  <img src="./SCREENSHOTS/Landing.png" width="700" />
-  <img src="./SCREENSHOTS/library.png" width="700" />
-  <img src="./SCREENSHOTS/library2.png" width="700" />
-  <img src="./SCREENSHOTS/Signup.png" width="700" />
+  <img src="./SCREENSHOTS/Landing.png" width="300" />
+  <img src="./SCREENSHOTS/library.png" width="300" />
+  <img src="./SCREENSHOTS/library2.png" width="300" />
+  <img src="./SCREENSHOTS/Signup.png" width="300" />
 </p>
-
 
 ## 🛠️ Tech Stack
 
