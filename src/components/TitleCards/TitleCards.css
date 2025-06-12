@@ -1,0 +1,49 @@
+.title-cards {
+  margin-top: 50px;
+  margin-bottom: 30px;
+}
+
+.title-cards h2 {
+  margin-bottom: 12px;
+  font-size: 22px;
+  color: #fff;
+}
+
+.card-list {
+  display: flex;
+  gap: 12px;
+  overflow-x: auto;
+  padding-bottom: 10px;
+}
+
+.card-list::-webkit-scrollbar {
+  display: none;
+}
+
+.card {
+  min-width: 240px;
+  border-radius: 4px;
+  overflow: hidden;
+  background-color: #111;
+  transition: transform 0.2s ease-in-out;
+}
+
+.card:hover {
+  transform: scale(1.05);
+  z-index: 2;
+}
+
+.card img {
+  width: 240px;
+  height: 360px;
+  object-fit: cover;
+  border-radius: 4px;
+  display: block;
+}
+
+.card p {
+  color: #fff;
+  margin-top: 6px;
+  font-size: 14px;
+  text-align: center;
+}
