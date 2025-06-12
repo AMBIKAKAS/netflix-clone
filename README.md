@@ -1,17 +1,15 @@
 # 📺 Netflix Clone 🎥
 
-A **Netflix-inspired web app** built with **React.js**, **JavaScript**, and **Firebase**, replicating the core UI/UX of Netflix — including user authentication, movie cards, trailer playback, and protected routes. This project was developed to enhance modern web development skills through real-world implementation.
+A **Netflix-Clone inspired web app** built with **React.js**, **JavaScript**, and **Firebase**, replicating the core UI/UX of Netflix — including user authentication, movie cards, trailer playback, and protected routes. This project was developed to enhance modern web development skills through real-world implementation.
 
 ---
 #SCREENSHOTS::
-
 <p align="center">
-  <img src="./SCREENSHOTS/Landing.png" width="300" />
-  <img src="./SCREENSHOTS/library.png" width="300" />
-  <img src="./SCREENSHOTS/library2.png" width="300" />
-  <img src="./SCREENSHOTS/Signup.png" width="300" />
+  <img src="./SCREENSHOTS/Landing.png" width="280" alt="🚀 Landing Page" />
+  <img src="./SCREENSHOTS/library.png" width="280" alt="🎞️ Movie Library" />
+  <img src="./SCREENSHOTS/library2.png" width="280" alt="🔍 Filtered Movies" />
+  <img src="./SCREENSHOTS/Signup.png" width="280" alt="🔐 Signup Page" />
 </p>
-
 ## 🛠️ Tech Stack
 
 | Technology        | Purpose                                       |
